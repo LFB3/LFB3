@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LFB3
+- 👀 I’m interested in Python, Java
+- 🌱 I’m currently learning Python
+- 📫 How to reach me ... https://youtu.be/XAYhNHhxN0A?si=5itKYbZvrXiYuRX0
+- ⚡ Fun fact: Ich mag Züge
