@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LFB3
-- 👀 I’m interested in Python, Java
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C++
 - 📫 How to reach me ... https://youtu.be/XAYhNHhxN0A?si=5itKYbZvrXiYuRX0
-- ⚡ Fun fact: Ich mag Züge
+- ⚡ Fun fact: I like Trains and im German
