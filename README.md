@@ -2,4 +2,4 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++
 - 📫 How to reach me ... https://youtu.be/XAYhNHhxN0A?si=5itKYbZvrXiYuRX0
-- ⚡ Fun fact: I like Trains and im German
+- ⚡ Fun fact: I like Trains and im am from Germany
