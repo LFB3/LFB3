@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LFB3
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
-- 📫 How to reach me ... https://youtu.be/XAYhNHhxN0A?si=5itKYbZvrXiYuRX0
-- ⚡ Fun fact: I like Trains and im am from Germany
+- 👋 Hallo ich bin Luca
+- 👀 Ich interesiere mich für Programmieren
+- 🌱 Ich lerne im momend C++
+- 📫 Du kannst mich erreichen über https://youtu.be/XAYhNHhxN0A?si=5itKYbZvrXiYuRX0
+- ⚡ Fun fact: Ich mag Züge
